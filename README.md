@@ -52,7 +52,10 @@
 
 - **Python 3.13**
 - **pandas, numpy** – Manipulação de dados
-- **scikit‑learn** – Algoritmos de detecção de anomalias
+- **imbalanced-learn (imblearn)** – Técnicas para balanceamento de classes, incluindo SMOTE.
+- **smote** – Implementação dedicada de SMOTE para oversampling.
+- **xgboost** – Algoritmo de Gradient Boosting para modelos avançados.
+
 - **matplotlib, seaborn, plotly** – Visualizações interativas
 - **Jupyter Notebook** – Ambiente exploratório
 
@@ -68,4 +71,10 @@ Este projeto está licenciado sob a licença MIT – sinta‑se à vontade para 
 ---
 
 *Projeto desenvolvido para fins educacionais durante o programa DIO – Data Science & Machine Learning.*
+
+## 📦 Repositório
+
+Este repositório, **Deteccao-de-anomalias-em-transacoes**, contém o código e notebooks utilizados no curso DIO para detecção de anomalias em transações financeiras.
+
 # Deteccao-de-anomalias-em-transacoes
+
